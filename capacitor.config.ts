@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.ionic.TikStar',
   appName: 'ionic-TikStar',
   webDir: 'www',
   server: {
